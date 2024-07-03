@@ -44,7 +44,7 @@ header span {
 }
 
 .text-wrapper {
-    max-width: 425px;/* 📍 Cвойство для ограничения ширины блока с текстом в первой секции */
+    max-width: 420px;/* 📍 Cвойство для ограничения ширины блока с текстом в первой секции */
 }
 
 .main-title {
@@ -203,9 +203,9 @@ footer {
     background-color: rgba(163, 167, 255, 0.3);
     padding: 26px 0;
     display: flex;
-    justify-content: center;
-   /* flex-direction: column;
-   text-align: center; */
+    /* justify-content: center; */
+   flex-direction: column;
+   text-align: center;
    /* 📍 Свойство для расположения ссылки горизонтально по центру */
 }
 
